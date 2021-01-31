@@ -1,0 +1,14 @@
+matplotlib
+jupyter
+opencv3
+pillow
+scikit-learn
+scikit-image
+scipy
+eventlet
+flask-socketio
+seaborn
+pandas
+imageio
+numpy==1.18
+tensorflow-gpu==2.2.0
