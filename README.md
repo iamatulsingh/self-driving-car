@@ -47,5 +47,9 @@ This will generate a file `model-<epoch>.h5` whenever the performance in the epo
 
 The credits for this code go to [naokishibuya](https://github.com/naokishibuya). I've merely created a wrapper to get people started.
 
+## Trial dataset
+
+https://download1582.mediafire.com/ltmi14nhjehg/f9rcg3zfgphvjv8/dataset.zip
+https://www.mediafire.com/file/f9rcg3zfgphvjv8/dataset.zip/file
 
 
