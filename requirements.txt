@@ -1,6 +1,6 @@
 matplotlib
 jupyter
-opencv3
+opencv-python
 pillow
 scikit-learn
 scikit-image
