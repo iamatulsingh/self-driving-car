@@ -11,4 +11,4 @@ seaborn
 pandas
 imageio
 numpy==1.18
-tensorflow-gpu==2.2.0
+tensorflow-gpu==2.3.0
