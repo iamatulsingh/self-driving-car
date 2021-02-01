@@ -1,5 +1,5 @@
-# How to simulate a self driving car
-This is the code for "How to Simulate a Self-Driving Car"
+# How to simulate a Self Driving Car
+This is the code for "How to Simulate a Self Driving Car"
 
 ## Overview
 
