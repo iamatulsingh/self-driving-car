@@ -19,7 +19,7 @@ conda env create -f environments.yml
 conda env create -f environment-gpu.yml
 ```
 
-Or you can manually install the required libraries (see the contents of the environemnt*.yml files) using pip.
+Or you can manually install the required libraries using `pip install -r requirements.txt`.
 
 
 ## Usage
