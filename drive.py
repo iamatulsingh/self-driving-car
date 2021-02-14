@@ -24,7 +24,7 @@ from flask import Flask
 from io import BytesIO
 
 #load our saved model
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 #helper class
 import utils
